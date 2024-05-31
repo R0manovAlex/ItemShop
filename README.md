@@ -1,12 +1,12 @@
-Pickaxe_ID_215_Pug, 500
-CID_760_Athena_Commando_F_NeonTightSuit, 2000
-Pickaxe_ID_389_DonutPlate1H, 800
+Pickaxe_ID_074_SharpDresser, 800
+CID_416_Athena_Commando_M_AssassinSuit, 2000
+Pickaxe_ID_102_RedRidin, 800
 na
 na
 na
-CID_362_Athena_Commando_F_BandageNinja, 1200
-EID_ArmUpDance, 500
-CID_546_Athena_Commando_F_TacticalRed, 1200
-CID_612_Athena_Commando_F_StreetOpsPink, 1200
-BID_487_WinterHunterFemale, 300
-Glider_ID_095_Witch, 1200
+CID_083_Athena_Commando_F_Tactical, 1500
+EID_Robot, 800
+CID_511_Athena_Commando_M_CubePaintWildCard, 1200
+CID_033_Athena_Commando_F_Medieval, 1200
+BID_003_RedKnight, 500
+Umbrella_Snowflake, 1200
